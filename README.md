@@ -304,9 +304,9 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Project Lead:** Omar Elkady
-- **Email:** your.email@example.com
-- **GitHub:** [https://github.com/yourusername/qchem-axis](https://github.com/yourusername/qchem-axis)
-- **LinkedIn:** [Your LinkedIn Profile]
+- **phone:** 01011986268
+- **Email:** omarelkady880@gmail.com/ omar.2324030@stemoctober.moe.edu.eg
+- **GitHub:** [https://github.com/omarelkady/qchem-axis](https://github.com/yourusername/qchem-axis)
 
 ---
 
