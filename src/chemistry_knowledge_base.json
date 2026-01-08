@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Atomic Structure",
+    "description": "Atoms consist of protons, neutrons, and electrons. Protons and neutrons form the nucleus, while electrons orbit in shells. Atomic number equals protons; mass number equals protons plus neutrons."
+  },
+  {
+    "name": "Periodic Table",
+    "description": "Elements are organized by atomic number in periods (rows) and groups (columns). Groups share similar properties. Main groups include alkali metals, alkaline earth metals, halogens, noble gases, and transition metals."
+  },
+  {
+    "name": "Chemical Bonding",
+    "description": "Atoms bond through ionic (electron transfer), covalent (electron sharing), or metallic bonding. Bond strength affects molecular properties like melting point and solubility."
+  },
+  {
+    "name": "Stoichiometry",
+    "description": "The quantitative relationship between reactants and products in chemical reactions. Based on the law of conservation of mass and balanced chemical equations."
+  },
+  {
+    "name": "Acids and Bases",
+    "description": "Acids donate H+ ions (pH < 7), bases accept H+ ions (pH > 7). pH scale measures acidity/basicity. Strong acids/bases completely dissociate; weak ones partially dissociate."
+  },
+  {
+    "name": "Redox Reactions",
+    "description": "Oxidation-reduction reactions involve electron transfer. Oxidation is electron loss (increase in oxidation state); reduction is electron gain (decrease in oxidation state)."
+  },
+  {
+    "name": "Thermochemistry",
+    "description": "Study of energy changes in chemical reactions. Exothermic reactions release heat (ΔH < 0); endothermic reactions absorb heat (ΔH > 0). Enthalpy, entropy, and Gibbs free energy govern spontaneity."
+  },
+  {
+    "name": "Chemical Equilibrium",
+    "description": "Dynamic state where forward and reverse reaction rates are equal. Le Chatelier's principle predicts how equilibrium shifts with changes in concentration, temperature, or pressure."
+  },
+  {
+    "name": "Organic Chemistry",
+    "description": "Study of carbon-based compounds. Includes hydrocarbons, functional groups, isomers, and reactions like substitution, addition, elimination, and condensation."
+  },
+  {
+    "name": "Electrochemistry",
+    "description": "Study of chemical reactions involving electron transfer. Includes galvanic cells (spontaneous), electrolytic cells (non-spontaneous), and electrode potentials."
+  },
+  {
+    "name": "Kinetics",
+    "description": "Study of reaction rates and mechanisms. Factors affecting rate: concentration, temperature, catalysts, surface area. Rate laws express relationship between rate and reactant concentrations."
+  },
+  {
+    "name": "Gas Laws",
+    "description": "Ideal gas law (PV = nRT) relates pressure, volume, moles, and temperature. Includes Boyle's law, Charles's law, and Avogadro's law."
+  },
+  {
+    "name": "Solutions and Solubility",
+    "description": "Solutions are homogeneous mixtures. Concentration units include molarity, molality, and mole fraction. Solubility depends on polarity ('like dissolves like') and temperature."
+  },
+  {
+    "name": "Nuclear Chemistry",
+    "description": "Study of nuclear reactions including radioactive decay (alpha, beta, gamma), half-life, fission, and fusion. Applications in medicine, energy, and dating."
+  },
+  {
+    "name": "Molecular Geometry",
+    "description": "VSEPR theory predicts molecular shapes based on electron pair repulsion. Common geometries: linear, trigonal planar, tetrahedral, trigonal bipyramidal, octahedral."
+  }
+]

@@ -1,0 +1,34 @@
+QChemAxis - Easy Startup Instructions
+=====================================
+
+Option 1: Quick Start (Recommended for Windows)
+-----------------------------------------------
+Double-click the file: start-app.bat
+This will automatically start both backend and frontend servers with the test user.
+
+Option 2: Using Command Line
+----------------------------
+Open a command prompt in this folder and run:
+npm run dev
+
+This will start both servers simultaneously.
+
+Option 3: Manual Start
+----------------------
+1. Open two separate command prompts
+2. In first: npm run dev:server (starts backend on port 3001)
+3. In second: npm run dev:frontend (starts frontend on port 5173+)
+
+Test User Credentials
+---------------------
+Username: omar khalid
+Email: omarelkady880@gmail.com
+Password: 66276627
+
+The application will automatically log in with these credentials on startup.
+
+Troubleshooting
+---------------
+- If you get "Connection failed" errors, make sure the backend server is running on port 3001
+- If ports are busy, the system will automatically assign alternative ports
+- The auto-setup script ensures the test user exists in the database

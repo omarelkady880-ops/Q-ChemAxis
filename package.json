@@ -1,0 +1,44 @@
+{
+  "name": "qchem-axis",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"node server/server-stable.js\" \"vite\"",
+    "dev:server": "node server/server-stable.js",
+    "dev:frontend": "vite",
+    "dev:all": "concurrently \"node server/server-stable.js\" \"vite\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server/server-stable.js"
+  },
+  "dependencies": {
+    "@rollbar/react": "^1.0.0",
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "jsonwebtoken": "^9.0.3",
+    "lucide-react": "^0.279.0",
+    "node-fetch": "^2.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.11.0",
+    "rollbar": "^2.26.5",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "concurrently": "^8.2.2",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.4.7",
+    "vite": "^5.0.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
