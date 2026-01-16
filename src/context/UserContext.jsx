@@ -22,7 +22,7 @@ export const UserProvider = ({ children }) => {
       }
 
       console.log('UserContext: Token found, checking status with API');
-      const response = await fetch('http://localhost:3001/api/auth/status', {
+      const response = await fetch('/api/auth/status', {
         headers: {
           'Authorization': `Bearer ${token}`
         }
